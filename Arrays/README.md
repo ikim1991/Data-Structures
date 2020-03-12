@@ -1,0 +1,3 @@
+# Arrays  
+
+### What are Arrays?  
