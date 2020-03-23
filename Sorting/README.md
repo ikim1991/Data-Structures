@@ -93,9 +93,11 @@ public class SelectionSort {
 
 ### Insertion Sort  
 
-Insertion sort is another basic sorting algorithm that works best with small datasets or lists that are almost sorted. In best case scenario it can achieve a time complexity of linear time, O(n). Insertion sort works as if we to sort playing cards in our hand, indexing up, we move sort from right to left.
+Insertion sort is another basic sorting algorithm that works best with small datasets or lists that are nearly sorted. In best case scenario it can achieve a time complexity of linear time, O(n). Insertion sort works as if we to sort playing cards in our hand, indexing up, we move sort from right to left.
 
 ##### Implementing Insertion Sort  
+
+[SelectionSort class](./src/algorithms/sorting/InsertionSort.java)  
 
 ```Java
 public class InsertionSort {
@@ -140,4 +142,31 @@ public class InsertionSort {
 
     }
 }
+```  
+
+### Merge Sort  
+
+
+
+##### Implementing Merge Sort  
+
+[SelectionSort class](./src/algorithms/sorting/MergeSort.java)  
+
+```Java
+
+
+
+```  
+
+### Quick Sort  
+
+
+##### Implementing Quick Sort  
+
+[SelectionSort class](./src/algorithms/sorting/QuickSort.java)  
+
+```Java
+
+
+
 ```  
