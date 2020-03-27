@@ -183,7 +183,7 @@ DFS starts at the root node and works its way down to the leaf node. It goes fro
 DFS is good for when we need to check whether something exists within a tree or graph.  
 The image below shows the difference between the traversal order of BFS vs. DFS.  
 
-[BFS vs. DFS](./bfsvsdfs.png)  
+<div style="text-align: center"><img src=./bfsvsdfs.png/></div>  
 
 ##### Implementing DFS  
 
